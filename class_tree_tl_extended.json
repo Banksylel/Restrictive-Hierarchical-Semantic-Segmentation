@@ -1,0 +1,17 @@
+{
+    "background": {},
+    "tooth+alveolar": {
+        "alveolar": {
+            "upper": {},
+            "lower": {}
+        },
+        "tooth": {
+            "composite": {},
+            "healthy": {
+                "pulp": {},
+                "dentin": {},
+                "enamel": {}
+            }
+        }
+    }
+}

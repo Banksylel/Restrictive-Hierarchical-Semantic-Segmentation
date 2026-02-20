@@ -1,0 +1,11 @@
+{
+    "background": {},
+    "upper": {},
+    "lower": {},
+    "tooth": {
+        "pulp": {},
+        "dentin": {},
+        "enamel": {},
+        "composite": {}
+    }
+}

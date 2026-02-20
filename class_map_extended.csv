@@ -1,0 +1,12 @@
+class_id,class_name,pixel_val
+0,background,0
+1,tooth+alveolar,None
+2,alveolar,None
+3,tooth,None
+4,upper,212
+5,lower,255
+6,composite,42
+7,healthy,None
+8,pulp,127
+9,dentin,170
+10,enamel,85

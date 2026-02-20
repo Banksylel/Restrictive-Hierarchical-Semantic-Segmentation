@@ -1,0 +1,9 @@
+class_id,class_name,pixel_val
+0,background,0
+1,upper,212
+2,lower,255
+3,tooth,None
+4,pulp,127
+5,dentin,170
+6,enamel,85
+7,composite,42
