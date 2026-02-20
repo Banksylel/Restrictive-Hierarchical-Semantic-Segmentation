@@ -56,9 +56,11 @@ pip install -r requirements.txt
 
 [Pytorch](https://pytorch.org/get-started/locally/)
 
-+ Download the [Trained_Weights]() 
++ Download the [Trained_Weights](https://drive.google.com/file/d/1j7DPKEbaY_l8Tu1zexsEalH_p8ILY2tq/view?usp=sharing) 
 
-+ Download the [Pretrained_weights](https://drive.google.com/file/d/1Iik0cRxxHq25ufOztsesryXQnzaU0rbg/view?usp=drive_link](https://drive.google.com/file/d/1Iik0cRxxHq25ufOztsesryXQnzaU0rbg/view?usp=sharing)
++ Download the [Pretrained_weights](https://drive.google.com/file/d/1Iik0cRxxHq25ufOztsesryXQnzaU0rbg/view?usp=sharing)
+
++ Download the data [Dataset](https://zenodo.org/records/15038971)
 
 
 ### Train
